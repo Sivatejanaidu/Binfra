@@ -9,3 +9,6 @@ resource "aws_s3_bucket_lifecycle_configuration" "example" {
     status = "Enabled"
   }
 }
+
+
+## added commnet as per pr##
